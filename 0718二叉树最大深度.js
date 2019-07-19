@@ -30,4 +30,3 @@ var maxDepth = function(root) {
     }
 };
 
-
